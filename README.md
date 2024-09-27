@@ -10,11 +10,6 @@ A personal porfolio website built with Nuxt3 and tailwindCSS
 
 - [Nuxt 3](https://v3.nuxtjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [Heroicons](https://vue-hero-icons.netlify.app/)
-- [Headlessui/vue](https://headlessui.dev/)
-- [Eslint](https://eslint.org/)
-- [GSAP](https://greensock.com/docs/v3/GSAP)
-- [SASS](https://sass-lang.com/)
 
 ## Build Setup
 
