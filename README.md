@@ -1,7 +1,3 @@
-<div>
-    <img src="[[https://www.eazypau.com/favicon-bw.png](https://www.flaticon.com/free-icon/letter-a_3665909?term=a&page=1&position=2&origin=search&related_id=3665909)](https://github.com/aayushujjwal/NuxtTask/blob/main/portfolio/public/profile-pics/profile.webp)" alt="favicon" width="100"/>
-</div>
-
 # Personal Portfolio Website
 
 A personal porfolio website built with Nuxt3 and tailwindCSS
